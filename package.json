@@ -1,0 +1,21 @@
+{
+  "name": "suspense-example2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "16.4.0-alpha.0911da3",
+    "react-dom": "16.4.0-alpha.0911da3",
+    "simple-cache-provider": "0.10.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.4.18",
+    "@types/react-dom": "16.0.9",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
